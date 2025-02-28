@@ -4,11 +4,11 @@
 **Supplementary Material**
 
 ![Alt Text](images/GradCAM.png)
-**Fig.1 The GradCAM diagrams of CLIP and CLIP-DSA from AP and LA views, including moyamoya disease and arteriovenous malformation. It can be seen that CLIP-DSA focuses more on the lesion area compared to CLIP.**
+**Fig.1 The GradCAM diagrams of CLIP and CLIP-DSA from anterior-posterior (AP) and Lateral (LA) views, including moyamoya disease (MMD) and arteriovenous malformation (AM). It can be seen that CLIP-DSA focuses more on the lesion area compared to CLIP.**
 
 ****
 
 ![Alt Text](images/GradCAM1.png)
-**Fig.2 The GradCAM diagrams of CLIP and CLIP-DSA from AP and LA views, including Intracranial aneurysm and arterial stenosis. It can be seen that CLIP-DSA focuses more on the lesion area compared to CLIP.**
+**Fig.2 The GradCAM diagrams of CLIP and CLIP-DSA from anterior-posterior (AP) and Lateral (LA) views, including Intracranial aneurysm (IA) and arterial stenosis (AS). It can be seen that CLIP-DSA focuses more on the lesion area compared to CLIP.**
 
 ****
