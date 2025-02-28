@@ -9,6 +9,6 @@
 ****
 
 ![Alt Text](images/GradCAM1.png)
-**Fig.2 The GradCAM diagrams of CLIP and CLIP-DSA from anterior-posterior (AP) and lateral (LA) views, including Intracranial aneurysm (IA) and arterial stenosis (AS). It can be seen that CLIP-DSA focuses more on the lesion area compared to CLIP.**
+**Fig.2 The GradCAM diagrams of CLIP and CLIP-DSA from anterior-posterior (AP) and lateral (LA) views, including intracranial aneurysm (IA) and arterial stenosis (AS). It can be seen that CLIP-DSA focuses more on the lesion area compared to CLIP.**
 
 ****
